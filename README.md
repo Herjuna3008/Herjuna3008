@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Herjuna3008
-- 👀 I’m interested in Website Development and Discord.JS
-- 🌱 I’m currently learning JavaScript, Node.Js, Html, Css, and many more
+- 👀 I’m interested in Website Development and Discord.JS, Eris
+- 🌱 I’m currently learning JavaScript, Node.Js, HTML, CSS, and many more
 
 <!---
 Herjuna3008/Herjuna3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
